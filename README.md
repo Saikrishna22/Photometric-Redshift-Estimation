@@ -9,7 +9,7 @@
 ### Data:
 link - http://www.usm.lmu.de/people/moster/Teaching/ML2018.html
 
-Images from the dataset:
+#### Images from the dataset:
 <br>
 ![](images/img1.png)
 <br>
@@ -21,11 +21,11 @@ Images from the dataset:
 ---
 ### Results:
 
-1 .Custom CNN - redshift value MSE: 0.45
+#### 1 .Custom CNN - redshift value MSE: 0.45
 <br>
 ![](Results/loss_redshift_cnn.png)
 <br>
-2. DenseNet 121 - redshift value MSE: 0.01
+#### 2. DenseNet 121 - redshift value MSE: 0.01
 <br>
 ![](Results/loss_redshift_densenet.png)
 ---
