@@ -10,4 +10,8 @@
 link - http://www.usm.lmu.de/people/moster/Teaching/ML2018.html
 
 images from the dataset:
+<br>
+![](images/img1.png)
+<br>
+![](images/img2.png)
 
