@@ -20,9 +20,11 @@ Images from the dataset:
 2.  DenseNet - 121(transfer learning)
 ---
 ### Results:
+
 Custom CNN - redshift value MSE: 0.45
 <br>
 ![](Results/loss_redshift_cnn.png)
+<br>
 DenseNet 121 - redshift value MSE: 0.01
 <br>
 ![](Results/loss_redshift_densenet.png)
