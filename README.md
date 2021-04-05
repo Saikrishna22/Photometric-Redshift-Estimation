@@ -8,8 +8,7 @@
 ---
 ### Data:
 link - http://www.usm.lmu.de/people/moster/Teaching/ML2018.html
-
-### Images from the dataset:
+Images from the dataset:
 <br>
 ![](images/img1.png)
 <br>
