@@ -9,9 +9,26 @@
 ### Data:
 link - http://www.usm.lmu.de/people/moster/Teaching/ML2018.html
 
-images from the dataset:
+Images from the dataset:
 <br>
 ![](images/img1.png)
 <br>
 ![](images/img2.png)
-
+---
+### Models Trained:
+1. Custom CNN model- 3 Conv block. Single CONV block contains conv layer, activation layer, batch normalization layer, Dropout layer.
+2.  DenseNet - 121(transfer learning)
+---
+### Results:
+Custom CNN - redshift value MSE: 0.45
+<br>
+![](Results/loss_redshift_cnn.png)
+DenseNet 121 - redshift value MSE: 0.01
+<br>
+![](Results/loss_redshift_densenet.png)
+---
+### Acknowledgements
+- Photometric redshifts from SDSS images using a Convolutional
+Neural Network
+  - https://arxiv.org/pdf/1806.06607.pdf
+---
