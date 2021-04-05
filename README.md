@@ -21,16 +21,15 @@ Images from the dataset:
 ---
 ### Results:
 
-Custom CNN - redshift value MSE: 0.45
+1 .Custom CNN - redshift value MSE: 0.45
 <br>
 ![](Results/loss_redshift_cnn.png)
 <br>
-DenseNet 121 - redshift value MSE: 0.01
+2. DenseNet 121 - redshift value MSE: 0.01
 <br>
 ![](Results/loss_redshift_densenet.png)
 ---
 ### Acknowledgements
 - Photometric redshifts from SDSS images using a Convolutional
-Neural Network
-  - https://arxiv.org/pdf/1806.06607.pdf
+Neural Network -  https://arxiv.org/pdf/1806.06607.pdf
 ---
